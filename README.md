@@ -14,3 +14,7 @@ This project uses face recognition to mark attendance automatically.
 
 ## Author
 Your Name
+
+
+
+This project was developed as part of BYOP Computer Vision course.
