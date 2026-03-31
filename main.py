@@ -1,3 +1,4 @@
+# Smart Attendance System using Face Recognition
 import cv2
 import numpy as np
 import face_recognition
